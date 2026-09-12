@@ -34,7 +34,7 @@ Dein-Projektordner/
 2. Platziere diese Build-Skripte direkt daneben (siehe Struktur oben).
 3. Starte das gewünschte Skript entweder über die `.sh`-Datei im MinGW64-Terminal oder komfortabel über die entsprechende `.bat`-Datei per Doppelklick.
 
-Downloads:
+Downloads:  
 MinGW64: https://www.msys2.org/  
 Quartus: https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-25-1-windows  
 
@@ -76,6 +76,6 @@ Your-Project-Folder/
 2. Place these build scripts directly next to it (as shown in the structure above).
 3. Run your desired script either via the `.sh` file inside the MinGW64 terminal or comfortably by double-clicking the corresponding `.bat` file.
 
-Downloads:
+Downloads:  
 MinGW64: https://www.msys2.org/  
 Quartus: https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-25-1-windows  
