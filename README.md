@@ -1,3 +1,5 @@
+[English version below](#domesday-duplicator-mingw64-build-script)
+
 # Domesday-Duplicator-MinGW64-Build-Skript
 
 Kompakte MinGW64-Build-Skripte für das **Domesday Duplicator** Projekt. 
@@ -35,9 +37,7 @@ Dein-Projektordner/
 3. Starte das gewünschte Skript entweder über die `.sh`-Datei im MinGW64-Terminal oder komfortabel über die entsprechende `.bat`-Datei per Doppelklick.
 
 Downloads:  
-Domesday Duplicator Project: https://github.com/Domesday86/DomesdayDuplicator  
-MinGW64: https://www.msys2.org/  
-Quartus: https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-25-1-windows  
+* [Domesday Duplicator Project](https://github.com/Domesday86/DomesdayDuplicator) | [MinGW64](https://www.msys2.org/) | [Quartus](https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-25-1-windows)  
 
 ____________________________________________________
 
@@ -78,6 +78,4 @@ Your-Project-Folder/
 3. Run your desired script either via the `.sh` file inside the MinGW64 terminal or comfortably by double-clicking the corresponding `.bat` file.
 
 Downloads:  
-Domesday Duplicator Project: https://github.com/Domesday86/DomesdayDuplicator  
-MinGW64: https://www.msys2.org/  
-Quartus: https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-25-1-windows  
+* [Domesday Duplicator Project](https://github.com/Domesday86/DomesdayDuplicator) | [MinGW64](https://www.msys2.org/) | [Quartus](https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-25-1-windows)  
