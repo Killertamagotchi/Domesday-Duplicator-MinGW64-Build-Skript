@@ -69,12 +69,12 @@ The repository contains three scripts for individual components and one main scr
 For the scripts to work correctly, they must be placed relative to the cloned source code. Set up your folder hierarchy like this:
 
 ```text
-Dein-Projektordner/
-├── DomesdayDuplicator/       <-- Das von GitHub geklonte Repository
-├── build_all.sh              <-- Das übergeordnete Master-Skript für alle Komponenten
-├── build_dd.sh               <-- Das Skript für die Haupt-App (GUI)
-├── build-fx3-programmer.sh   <-- Das Kombi-Skript für FX3 Programmer & Firmware
-└── build_fpga.sh             <-- Das Skript zur FPGA-Kompilierung via Quartus
+Your-Project-Folder/
+├── DomesdayDuplicator/       <-- The repository cloned from GitHub
+├── build_all.sh              <-- The master script for all components
+├── build_dd.sh               <-- The script for the main app (GUI)
+├── build-fx3-programmer.sh   <-- The combined script for FX3 programmer & firmware
+└── build_fpga.sh             <-- The script for FPGA compilation via Quartus
 ```
 
 ## 🚀 Usage
