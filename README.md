@@ -34,7 +34,7 @@ Dein-Projektordner/
 2. Platziere diese Build-Skripte direkt daneben (siehe Struktur oben).
 3. Starte das gewünschte Skript entweder über die `.sh`-Datei im MinGW64-Terminal oder komfortabel über die entsprechende `.bat`-Datei per Doppelklick.
 
-Downloads: 
+Downloads:  
 Domesday Duplicator Project: https://github.com/Domesday86/DomesdayDuplicator  
 MinGW64: https://www.msys2.org/  
 Quartus: https://www.altera.com/downloads/fpga-development-tools/quartus-prime-lite-edition-design-software-version-25-1-windows  
